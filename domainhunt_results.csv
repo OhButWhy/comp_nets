@@ -1,0 +1,11 @@
+Domain,Adress,TTL,Loss,RTT
+google.com,108.177.14.100,100.0,0,99.0
+youtube.com,173.194.222.91,97.0,0,84.0
+facebook.com,57.144.244.1,45.0,0,111.0
+twitter.com,172.66.0.227,48.0,0,44.0
+instagram.com,57.144.244.34,45.0,0,114.0
+wikipedia.org,185.15.59.224,47.0,0,128.0
+vk.com,87.240.132.78,44.0,0,83.0
+steamcommunity.com,92.123.205.129,45.0,0,93.0
+scpfoundation.net,45.43.79.140,,4,
+yandex.ru,5.255.255.77,45.0,0,77.0
