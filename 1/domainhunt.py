@@ -1,11 +1,12 @@
 import subprocess
 import re
+
 import pandas as pd
 
 
-def hunt(doms):
+def hunt(domains):
     results = []
-    for domain in doms:
+    for domain in domains:
         result = subprocess.run(f"ping -n 4 {domain}", shell=True,
                                 capture_output=True,
                                 text=True, encoding='cp866')
