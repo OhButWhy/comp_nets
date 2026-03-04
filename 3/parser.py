@@ -1,4 +1,5 @@
 from playwright.sync_api import sync_playwright
+
 import csv
 
 with sync_playwright() as p:
